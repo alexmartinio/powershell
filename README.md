@@ -1,3 +1,3 @@
-# Alex - 2018-06-13
+# PowerShell Scripts
 
 PowerShell script repository
